@@ -1,0 +1,54 @@
+.navBackground{
+    background-color: #44318D;
+    color: #E98074;
+}
+
+.navText{
+    color: white;
+}
+
+.navText:hover{
+    color: #E98074;
+}
+
+.background{
+    background-color: #2A1B3D;
+    color: #A4B3B6;
+    padding-bottom: 7%;
+}
+
+.pageHeader{
+    margin-top: 1%;
+}
+
+.break{
+    width: 100%;
+    background-color: #E98074;
+    padding: 0.25%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+
+.homePicture{
+    margin-bottom: 1%;
+}
+
+.text{
+    margin-top: 8%
+}
+
+.navFooter{
+    text-align: center;
+    background-color: #44318D;
+    color: #E98074;
+}
+
+.submit{
+    margin-top: 1%;
+}
+
+.portfolioImage{
+    width: 50%;
+    height: 50%;
+}
+
